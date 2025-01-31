@@ -1,2 +1,2 @@
 # Mi primer README Estudio-github
-repositorio de estudio
+repositorio de estudio para git pull
